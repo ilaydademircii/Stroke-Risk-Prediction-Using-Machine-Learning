@@ -15,12 +15,17 @@ The dataset used is publicly available on Kaggle:
 * Scikit-learn (modeling, evaluation)
 * Warnings module for clean output
 
-📊 Exploratory Data Analysis Report
+ ### 📄 Project Reports
 
-You can download the EDA report here: [Exploratory Data Analysis (EDA) Report](https://github.com/ilaydademircii/Stroke-Risk-Prediction-Using-Machine-Learning/blob/main/Exploratory%20Data%20Analysis%20(EDA).pdf)
+- [Exploratory Data Analysis (EDA) Report](https://github.com/ilaydademircii/Stroke-Risk-Prediction-Using-Machine-Learning/blob/main/Exploratory%20Data%20Analysis%20(EDA).pdf)  
+  A detailed report on exploratory data analysis, visualization, and evaluation of key features related to stroke risk.
+
+- [Comprehensive Project Report](https://github.com/ilaydademircii/Stroke-Risk-Prediction-Using-Machine-Learning/blob/main/Proje%20Raporu.pdf)  
+  A thorough report covering the methodology, implementation steps, results, and potential future improvements of the project.
 
 
-## Exploratory Data Analysis (EDA)
+
+📊 ## Exploratory Data Analysis (EDA)
 
 A comprehensive exploratory data analysis is performed, including approximately 12 different visualizations to better understand the data distribution and relationships, such as:
 
