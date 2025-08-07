@@ -16,6 +16,7 @@ The dataset used is publicly available on Kaggle:
 * Warnings module for clean output
 
 📊 Exploratory Data Analysis Report
+
 You can download the EDA report here: [Exploratory Data Analysis (EDA) Report](https://github.com/ilaydademircii/Stroke-Risk-Prediction-Using-Machine-Learning/blob/main/Exploratory%20Data%20Analysis%20(EDA).pdf)
 
 
