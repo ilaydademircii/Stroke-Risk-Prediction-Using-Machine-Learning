@@ -4,6 +4,9 @@
 
 This project aims to predict stroke risk using logistic regression on a medical dataset containing patient features such as age, gender, hypertension, heart disease, glucose levels, BMI, and smoking status. The data is preprocessed and modeled to classify individuals as at risk or not at risk of stroke, facilitating early intervention.
 
+The dataset used is publicly available on Kaggle:
+Stroke Risk Prediction Dataset v2
+
 ## Technologies Used
 
 * Python
@@ -97,6 +100,4 @@ print(classification_report(y_test, predictions))
 ## Contributing
 
 Contributions and improvements are welcome! Feel free to fork, enhance preprocessing, experiment with other classifiers, or add visualization improvements.
----
 
-İstersen bunu markdown olarak tam halini de verebilirim. Başka eklemek istediğin bir şey var mı?
