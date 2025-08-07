@@ -25,7 +25,7 @@ The dataset used is publicly available on Kaggle:
 
 
 
-📊 ## Exploratory Data Analysis (EDA)
+📊 Exploratory Data Analysis (EDA)
 
 A comprehensive exploratory data analysis is performed, including approximately 12 different visualizations to better understand the data distribution and relationships, such as:
 
